@@ -1,0 +1,23 @@
+p
+{
+	background-color: black;
+	color: red;
+	font-family: Times;
+	font-size: 16pt;
+}
+
+body
+{
+	background-color: silver;
+	background-size: 100%;
+}
+
+a
+{
+	color: blue;
+}
+
+a:hover
+{
+	color: black;
+}
